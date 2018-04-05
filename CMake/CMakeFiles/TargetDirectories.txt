@@ -1,0 +1,1 @@
+/home/lsh/바탕화면/project/Git/PullApiData/CMake/CMakeFiles/PullApiData.dir
